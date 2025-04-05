@@ -9,3 +9,7 @@ T
 $contracts/inventor-verification.clar,d/a/da328d05fb6a6a3f795da983037a440861bdbd60
 S
 #tests/inventor-verification.test.ts,2/3/233ba4458e8fd5588fb1137d9125edbe8ecf1414
+T
+$contracts/regulatory-submission.clar,d/e/de37a19c1cc4b72cb73f35f4a4c6f46c09489d09
+S
+#tests/regulatory-submission.test.ts,e/8/e8bf4d9024c43a01ee32c487dcdd3874d588c6d8
