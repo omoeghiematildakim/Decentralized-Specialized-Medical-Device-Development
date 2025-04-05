@@ -13,3 +13,7 @@ T
 $contracts/regulatory-submission.clar,d/e/de37a19c1cc4b72cb73f35f4a4c6f46c09489d09
 S
 #tests/regulatory-submission.test.ts,e/8/e8bf4d9024c43a01ee32c487dcdd3874d588c6d8
+S
+#contracts/testing-verification.clar,e/7/e774723c9f42076ac0367864d631d7c7b174d54a
+R
+"tests/testing-verification.test.ts,9/2/92a7029feea5565b52d116e354a35abc426d040f
