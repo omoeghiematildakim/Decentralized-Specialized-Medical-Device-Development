@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+S
+#contracts/design-documentation.clar,a/a/aa49769d8144faf7934d284fbe789c4b91740435
+R
+"tests/design-documentation.test.ts,2/4/2433eb0703d5bb2ff58010136bb050e657018b88
+T
+$contracts/inventor-verification.clar,d/a/da328d05fb6a6a3f795da983037a440861bdbd60
+S
+#tests/inventor-verification.test.ts,2/3/233ba4458e8fd5588fb1137d9125edbe8ecf1414
+T
+$contracts/regulatory-submission.clar,d/e/de37a19c1cc4b72cb73f35f4a4c6f46c09489d09
+S
+#tests/regulatory-submission.test.ts,e/8/e8bf4d9024c43a01ee32c487dcdd3874d588c6d8
+S
+#contracts/testing-verification.clar,e/7/e774723c9f42076ac0367864d631d7c7b174d54a
+R
+"tests/testing-verification.test.ts,9/2/92a7029feea5565b52d116e354a35abc426d040f
